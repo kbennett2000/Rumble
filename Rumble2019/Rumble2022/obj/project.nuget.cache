@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jYBbaUl6CFZ7iR2IUhMi6Wye71oJAv9y6gHYIoBdg8kar37SYAqn2cerSM4UXYpfjn8WIx6e+mnaxi/Kj8wEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KB\\source\\repos\\Rumble2019\\Rumble2022\\Rumble2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KB\\.nuget\\packages\\dtmfdetection\\1.2.2\\dtmfdetection.1.2.2.nupkg.sha512",
+    "C:\\Users\\KB\\.nuget\\packages\\dtmfdetection.naudio\\1.2.2\\dtmfdetection.naudio.1.2.2.nupkg.sha512",
+    "C:\\Users\\KB\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\KB\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\KB\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512",
+    "C:\\Users\\KB\\.nuget\\packages\\system.resources.extensions\\4.7.0\\system.resources.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\KB\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\KB\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\KB\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

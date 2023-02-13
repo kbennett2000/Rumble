@@ -1,0 +1,7 @@
+C:\Users\KB\source\repos\Rumble2019\Rumble2022\obj\Debug\net5.0-windows\Rumble2022.csproj.AssemblyReference.cache
+C:\Users\KB\source\repos\Rumble2019\Rumble2022\obj\Debug\net5.0-windows\Rumble2022.frmMain.resources
+C:\Users\KB\source\repos\Rumble2019\Rumble2022\obj\Debug\net5.0-windows\Rumble2022.csproj.GenerateResource.cache
+C:\Users\KB\source\repos\Rumble2019\Rumble2022\obj\Debug\net5.0-windows\Rumble2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KB\source\repos\Rumble2019\Rumble2022\obj\Debug\net5.0-windows\Rumble2022.AssemblyInfoInputs.cache
+C:\Users\KB\source\repos\Rumble2019\Rumble2022\obj\Debug\net5.0-windows\Rumble2022.AssemblyInfo.cs
+C:\Users\KB\source\repos\Rumble2019\Rumble2022\obj\Debug\net5.0-windows\Rumble2022.csproj.CoreCompileInputs.cache
